@@ -12,5 +12,6 @@ A start up page of a fictional website named tindog which is inspired by the tin
  - HTML5
  - CSS3 
  - Google Fonts  
+ ### Website Link:[TinDog](https://ad-1-tya.github.io/TinDog.github.io/TinDog%20Completed%20Website/ "Named link title")
  
 
